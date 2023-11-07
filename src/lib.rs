@@ -1,4 +1,5 @@
 mod errors;
+mod collections;
 
 use std::mem;
 pub struct List{
